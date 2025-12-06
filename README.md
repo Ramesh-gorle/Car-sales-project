@@ -46,7 +46,7 @@ Excel / CSV Data
 
 Data Visualization Libraries
 
--Key Insights Delivered:
+- Key Insights Delivered:
 
 Regional and model-wise performance highlights
 
