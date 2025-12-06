@@ -1,4 +1,4 @@
-# Car-sales-project
+# Car-sales- data analytics end to end project
 This project provides an in-depth analysis of car sales data to understand market behavior, seasonal trends, model performance, and forecasting insights. Using data analytics techniques, the project examines how sales vary across regions, time periods, and customer segments, helping businesses make informed decisions on marketing, production.
 
 - Project Objectives:
